@@ -18,8 +18,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: npm install
-      - run: npm run build -- --base=./
+      - run: npm ci
+      - run: node ./node_modules/vite/bin/vite.js build --base=./
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
