@@ -1,0 +1,85 @@
+MD. ABID CHOWDHURY
+Robotics & Mechatronics Engineer · Researcher
+Dhaka, Bangladesh | abid.chowdhury.ban@gmail.com | +8801710960484
+GitHub · LinkedIn · Google Scholar (see profile links)
+Institutional email: mdabid-2021311406@rme.du.ac.bd
+
+EDUCATION
+2022–2026 | B.Sc. in Robotics & Mechatronics Engineering, University of Dhaka
+CGPA: 3.30 / 4.00 (through 7th semester)
+Thesis: Bat-Inspired Passive Locking Claw and Leg Design and Development for UAVs
+Contact: rme@du.ac.bd
+
+WORK EXPERIENCE
+Feb 2024 – Present | Researcher, Cortex AI Lab, Dhaka, Bangladesh (Director: Shifat E. Arman)
+- Conduct research across multidisciplinary fields of robotics and mechatronics, integrating
+  state-of-the-art machine learning, computer vision, and bio-inspired artificial intelligence frameworks.
+
+Nov 2024 – Mar 2025 | Undergraduate Research Assistant, Mechatronics and Artificial Intelligence in
+Medicine (MAIM) Lab, Dhaka, Bangladesh (Director: Dr. Abhishek Kumar Ghosh)
+- Researcher on "Flexipede: A Bio-Inspired, Modular Myriapod Robot for Rough-Terrain Traversal,"
+  managing simulation, fabrication, and structural validation.
+
+Sep 2024 – Present | Undergraduate Research Assistant, University of Dhaka
+(Supervisors: Dr. Shamim Ahmed Deowan, Shifat E. Arman)
+- Researcher on a turtle-inspired modular swimming robot utilizing a minimal actuator configuration
+  for high-efficiency underwater exploration.
+
+RESEARCH PROJECTS
+Bat-Inspired Passive Locking Claw and Leg Design and Development for UAVs
+Supervisors: Dr. Shamim Ahmed Deowan, Shifat E. Arman | Jan 2026 – Present
+- Simulated and validated a designed and prototyped bio-inspired passive locking and active unlocking
+  perching system to enable UAVs to persistently hang onto cylindrical structures for extended data collection.
+- Formulated an analytical mathematical framework validated through structural FEA (Static Structural) loops.
+
+Flexipede (Decipede): A Bio-Inspired, Modular Myriapod Robot for Rough-Terrain Traversal
+Supervisor: Dr. Abhishek Kumar Ghosh | Jul 2024 – Dec 2025
+- Aided in engineering a mechanically intelligent modular robot architecture mimicking myriapod
+  kinematics, featuring a customized single-actuator bipedal walking mechanism.
+- Aided in the fabrication of the robot and later data collection and analysis of that data.
+
+Turtle-Inspired Modular Swimming Robot with a Minimal Number of Actuators
+Supervisors: Shifat E. Arman, Dr. Shamim Ahmed Deowan | Sep 2024 – Present
+- Executed coupled Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA) simulations
+  to optimize multi-material hydrodynamics and pressure distribution constraints.
+- Aided in developing kinematic predictions in Webots simulation environments and verified the
+  framework through empirical performance trials on full-scale physical hardware.
+
+Burst Pressure Enhancement of Steel Pipelines Using Variable-Angle Composite Overwraps: A Numerical Study
+Supervisor: Dr. Md. Abdus Shabur | Oct 2025 – Feb 2026
+- Modeled the stress and load-sharing dynamics of 4 distinct industrial composite material systems used
+  for global reinforcement and structural rehabilitation of transmission piping networks.
+- Engineered a validated numerical simulation framework inside ANSYS ACP (Pre) and Static Structural
+  to isolate optimal anisotropic fiber winding angles under extreme hydrostatic loading conditions.
+
+Numerical Analysis of Burst Pressure Improvement in Corroded Steel Pipelines Using
+Variable-Angle Composite Overwraps
+Supervisor: Dr. Md. Abdus Shabur | Oct 2025 – Feb 2026
+- Developed a detailed 3D finite element framework analyzing structural rehabilitation efficiency for
+  steel pipes containing non-uniform, localized corrosion thinning defects.
+- Evaluated interface stress distribution and progressive deformation patterns across varied winding
+  orientations to mathematically define safety metrics and Maximum Allowable Operating Pressure (MAOP) gains.
+
+PUBLICATIONS
+[1] Flexipede: A Bio-Inspired, Modular Myriapod Robot for Rough-Terrain Traversal.
+    Authors: Samudra Jit Saha, Md. Abid Chowdhury, Sayma Islam, Shamim Ahmed Deowan, Shifat E. Arman,
+    and Abhishek K. Ghosh; Journal: Robotics; Publisher: MDPI. [Under review]
+[2] Material Selection and Fiber Orientation Effects in Composite Overwrapped Steel Pipelines: A
+    Numerical Study for Burst Pressure Enhancement.
+    Authors: Samudra Jit Saha, Marufa Akter, Nowreen Jahan, Sayma Islam, Abid Chowdhury, and
+    Md. Abdus Shabur; Journal: Journal of Sustainable Smart Materials and Structural Systems.
+
+SKILLS
+Programming Languages & Frameworks: Python, C/C++, MATLAB, LaTeX, ROS 2 (Jazzy)
+AI & Machine Learning: PyTorch, TensorFlow, Keras, Hugging Face, LangChain, Scikit-learn, OpenCV,
+Edge Impulse, CUDA
+Simulation & Modeling: Ansys, COMSOL Multiphysics, Fusion 360, KiCAD
+Hardware & Prototyping: ESP32, Raspberry Pi Pico, STM32, PLC, Oscilloscope, Function Generator, 3D Printing
+
+ACHIEVEMENTS
+Silver Medal (2nd Place) – Physics and Applied Engineering, 8th World Innovation Competition and
+Exhibition (WICE), Northern University Bangladesh, 2026
+Winner (4th Place) – Robotics & IoT, 1st Global Robotics and Innovation Consortium 2026,
+United International University, 2026
+Champion (1st Place) – Robotics Project Showcase, Robotronics Fest 2025, University of Dhaka, 2025
+Research Grant – ICT Division Innovation Fund, ICT Ministry, Dhaka, Bangladesh, 2024
